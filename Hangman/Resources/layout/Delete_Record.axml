@@ -30,7 +30,7 @@
         android:layout_height="38.5dp"
         >
 
-
+      
         <TextView
             android:text="Name                             Score"
             android:textAppearance="?android:attr/textAppearanceSmall"
@@ -78,7 +78,7 @@
             android:id="@+id/btn_Home_Page"
             
     />
-
+       // Delete button for delate record 
         <Button
             android:layout_width="112.5dp"
             android:layout_height="71.0dp"
